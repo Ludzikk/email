@@ -1,0 +1,2 @@
+﻿model,split,n_train,n_test,n_features,accuracy,precision,recall,f1,TN,FP,FN,TP
+logistic_regression_metadata_only,test_80_20,2914,729,12,0.8175582990397805,0.7331378299120235,0.8561643835616438,0.7898894154818326,346,91,42,250

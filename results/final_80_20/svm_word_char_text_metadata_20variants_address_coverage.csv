@@ -1,0 +1,17 @@
+﻿split,source,messages,sender_available,receiver_available
+train,enron,884,884,849
+train,nazario_2018,189,186,167
+train,nazario_2019,164,158,147
+train,nazario_2020,111,109,103
+train,nazario_2021,75,75,73
+train,nazario_2024,292,291,285
+train,nazario_2025,334,331,318
+train,spamassassin_ham,865,865,814
+test,enron,209,209,204
+test,nazario_2018,49,48,45
+test,nazario_2019,35,33,33
+test,nazario_2020,27,26,27
+test,nazario_2021,15,15,14
+test,nazario_2024,67,67,66
+test,nazario_2025,99,97,95
+test,spamassassin_ham,228,228,210

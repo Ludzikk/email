@@ -1,0 +1,9 @@
+﻿model,variant,n_extra_features,extra_features,n_train,n_test,accuracy,precision,recall,f1,TN,FP,FN,TP
+Word,bazowy,0,,2914,729,0.9876543209876543,1.0,0.9691780821917808,0.9843478260869565,437,0,9,283
+Word,A_dlugosc,3,"subject_length, message_length, message_word_count",2914,729,0.9876543209876543,1.0,0.9691780821917808,0.9843478260869565,437,0,9,283
+Word,B_styl,3,"exclamation_count, question_count, uppercase_ratio",2914,729,0.9890260631001372,1.0,0.9726027397260274,0.9861111111111112,437,0,8,284
+Word,C_wszystkie,6,"subject_length, message_length, message_word_count, exclamation_count, question_count, uppercase_ratio",2914,729,0.99039780521262,1.0,0.976027397260274,0.9878682842287695,437,0,7,285
+Char,bazowy,0,,2914,729,0.9890260631001372,1.0,0.9726027397260274,0.9861111111111112,437,0,8,284
+Char,A_dlugosc,3,"subject_length, message_length, message_word_count",2914,729,0.9876543209876543,1.0,0.9691780821917808,0.9843478260869565,437,0,9,283
+Char,B_styl,3,"exclamation_count, question_count, uppercase_ratio",2914,729,0.9890260631001372,1.0,0.9726027397260274,0.9861111111111112,437,0,8,284
+Char,C_wszystkie,6,"subject_length, message_length, message_word_count, exclamation_count, question_count, uppercase_ratio",2914,729,0.9876543209876543,1.0,0.9691780821917808,0.9843478260869565,437,0,9,283

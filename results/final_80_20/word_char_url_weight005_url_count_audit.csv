@@ -1,0 +1,17 @@
+﻿split,source,label,messages,detected_urls_total,stored_url_count_available_rows,stored_url_count_presence_mismatches,stored_url_count_exact_count_mismatches,stored_urls_json_count_available_rows,stored_urls_json_count_presence_mismatches,stored_urls_json_count_exact_count_mismatches
+test,enron,0,209,161,209,0,5,209,0,5
+test,nazario_2018,1,49,27,49,29,43,49,29,43
+test,nazario_2019,1,35,89,35,25,35,35,25,35
+test,nazario_2020,1,27,11,27,20,24,27,20,24
+test,nazario_2021,1,15,11,15,9,14,15,9,14
+test,nazario_2024,1,67,71,67,36,61,67,36,61
+test,nazario_2025,1,99,60,99,59,84,99,59,84
+test,spamassassin_ham,0,228,1031,228,0,25,228,0,25
+train,enron,0,884,465,884,0,15,884,0,15
+train,nazario_2018,1,189,96,189,134,165,189,134,165
+train,nazario_2019,1,164,141,164,116,150,164,116,150
+train,nazario_2020,1,111,59,111,77,100,111,77,100
+train,nazario_2021,1,75,32,75,52,66,75,52,66
+train,nazario_2024,1,292,227,292,179,259,292,179,259
+train,nazario_2025,1,334,270,334,198,283,334,198,283
+train,spamassassin_ham,0,865,3708,865,1,88,865,1,88

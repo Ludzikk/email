@@ -1,0 +1,17 @@
+﻿model,source,messages,FP,FN
+Word,enron,209,0,0
+Word,nazario_2018,49,0,1
+Word,nazario_2019,35,0,1
+Word,nazario_2020,27,0,1
+Word,nazario_2021,15,0,0
+Word,nazario_2024,67,0,0
+Word,nazario_2025,99,0,3
+Word,spamassassin_ham,228,0,0
+Char,enron,209,0,0
+Char,nazario_2018,49,0,2
+Char,nazario_2019,35,0,0
+Char,nazario_2020,27,0,1
+Char,nazario_2021,15,0,0
+Char,nazario_2024,67,0,3
+Char,nazario_2025,99,0,3
+Char,spamassassin_ham,228,0,0

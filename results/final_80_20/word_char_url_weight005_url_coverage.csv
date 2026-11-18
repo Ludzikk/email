@@ -1,0 +1,17 @@
+﻿split,source,label,messages,messages_with_url,detected_urls_total,mean_urls_per_message,messages_without_url,messages_with_url_pct
+test,enron,0,209,40,161,0.77,169,19.14
+test,nazario_2018,1,49,18,27,0.551,31,36.73
+test,nazario_2019,1,35,10,89,2.543,25,28.57
+test,nazario_2020,1,27,6,11,0.407,21,22.22
+test,nazario_2021,1,15,5,11,0.733,10,33.33
+test,nazario_2024,1,67,29,71,1.06,38,43.28
+test,nazario_2025,1,99,30,60,0.606,69,30.3
+test,spamassassin_ham,0,228,198,1031,4.522,30,86.84
+train,enron,0,884,121,465,0.526,763,13.69
+train,nazario_2018,1,189,48,96,0.508,141,25.4
+train,nazario_2019,1,164,43,141,0.86,121,26.22
+train,nazario_2020,1,111,29,59,0.532,82,26.13
+train,nazario_2021,1,75,15,32,0.427,60,20.0
+train,nazario_2024,1,292,90,227,0.777,202,30.82
+train,nazario_2025,1,334,107,270,0.808,227,32.04
+train,spamassassin_ham,0,865,751,3708,4.287,114,86.82

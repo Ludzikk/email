@@ -1,0 +1,9 @@
+﻿source,count,errors,false_positive,false_negative
+enron,209,14,14,0
+nazario_2018,49,13,0,13
+nazario_2019,35,4,0,4
+nazario_2020,27,9,0,9
+nazario_2021,15,3,0,3
+nazario_2024,67,3,0,3
+nazario_2025,99,10,0,10
+spamassassin_ham,228,77,77,0

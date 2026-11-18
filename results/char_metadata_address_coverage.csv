@@ -1,0 +1,17 @@
+﻿split,source,messages,sender_available,receiver_available,sender_missing,receiver_missing,sender_available_pct,receiver_available_pct
+train,enron,884,884,849,0,35,100.0,96.04
+train,nazario_2018,189,186,167,3,22,98.41,88.36
+train,nazario_2019,164,158,147,6,17,96.34,89.63
+train,nazario_2020,111,109,103,2,8,98.2,92.79
+train,nazario_2021,75,75,73,0,2,100.0,97.33
+train,nazario_2024,292,291,285,1,7,99.66,97.6
+train,nazario_2025,334,331,318,3,16,99.1,95.21
+train,spamassassin_ham,865,865,814,0,51,100.0,94.1
+test,enron,209,209,204,0,5,100.0,97.61
+test,nazario_2018,49,48,45,1,4,97.96,91.84
+test,nazario_2019,35,33,33,2,2,94.29,94.29
+test,nazario_2020,27,26,27,1,0,96.3,100.0
+test,nazario_2021,15,15,14,0,1,100.0,93.33
+test,nazario_2024,67,67,66,0,1,100.0,98.51
+test,nazario_2025,99,97,95,2,4,97.98,95.96
+test,spamassassin_ham,228,228,210,0,18,100.0,92.11

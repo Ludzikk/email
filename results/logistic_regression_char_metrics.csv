@@ -1,0 +1,2 @@
+﻿model,dataset,count,accuracy,precision,recall,f1,TN,FP,FN,TP
+char_tfidf,test,729,0.9890260631001372,1.0,0.9726027397260274,0.9861111111111112,437,0,8,284
